@@ -27,4 +27,3 @@ System.Text.Json.dll
 System.Threading.Tasks.Extensions.dll
 WebAssembly.Bindings.dll
 WebAssembly.Net.Http.dll
-WebApplication1.pdb
